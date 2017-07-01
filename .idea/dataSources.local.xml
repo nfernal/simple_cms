@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails simple_cms: test" uuid="b2819bb5-e36d-451f-b7d2-ad36d98ae71a">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <user-name>root</user-name>
+    </data-source>
+    <data-source name="Rails simple_cms: production" uuid="106c0af5-802f-40ea-b004-5d5a5b543aee">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <user-name>simple_cms</user-name>
+    </data-source>
+    <data-source name="Rails simple_cms: development" uuid="e56b4ce2-2a33-4bba-8dcc-e7bc974b0e1f">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <first-sync>true</first-sync>
+      <user-name>root</user-name>
+    </data-source>
+  </component>
+</project>
